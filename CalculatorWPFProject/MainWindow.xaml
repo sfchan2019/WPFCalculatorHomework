@@ -1,0 +1,23 @@
+﻿<Window x:Class="CalculatorWPFProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculatorWPFProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="248.667" Width="388.133">
+    <Grid>
+        <Label Content="Enter Value 1" HorizontalAlignment="Left" Margin="36,35,0,0" VerticalAlignment="Top"/>
+        <Label Content="Enter Value 2" HorizontalAlignment="Left" Margin="36,91,0,0" VerticalAlignment="Top"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="161,157,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click"/>
+        <TextBox Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="161,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="161,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="NumberValidationTextBox"/>
+        <ComboBox Name="calculation" HorizontalAlignment="Left" Margin="34,154,0,0" VerticalAlignment="Top" Width="78" SelectedIndex="0">
+            <ComboBoxItem>Add</ComboBoxItem>
+            <ComboBoxItem>Minus</ComboBoxItem>
+            <ComboBoxItem>Multiply</ComboBoxItem>
+            <ComboBoxItem>Divide</ComboBoxItem>
+        </ComboBox>
+
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.exe.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csprojAssemblyReference.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\Calculator.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\Calculator.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\Calculator.exe.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csproj.CopyComplete
